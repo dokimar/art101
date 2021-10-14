@@ -1,7 +1,6 @@
 h2 {
     color: Black;
     font-family: verdana;
-    font-size: 200%;
 }
 
 
@@ -9,23 +8,20 @@ h2 {
 h3 {
     color: MidnightBlue;
     font-family: verdana;
-    font-size: 100%;
 }
 
 
 
 h4 {
-    color: LightCoral;
+    color: Coral;
     font-family: verdana;
-    font-size: 75%;
 }
 
 
 
 h5 {
-    color: LightPink;
+    color: LightCoral;
     font-family: verdana;
-    font-size: 50%;
 }
 
 
