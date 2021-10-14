@@ -1,33 +1,37 @@
 h2 {
-    color: purple;
-    font-size: 600%;
-}
-
-
-
-h3 {
-    color: purple;
-    font-size: 400%;
-}
-
-
-
-h4 {
-    color: blue;
+    color: Black;
+    font-family: verdana;
     font-size: 200%;
 }
 
 
 
-h5 {
-    color: pink;
+h3 {
+    color: MidnightBlue;
+    font-family: verdana;
     font-size: 100%;
 }
 
 
 
+h4 {
+    color: LightCoral;
+    font-family: verdana;
+    font-size: 75%;
+}
+
+
+
+h5 {
+    color: LightPink;
+    font-family: verdana;
+    font-size: 50%;
+}
+
+
+
 p {
-    font-family: "courier";
+    font-family: "verdana";
     text-indent: "30px";
     margin-left: "15px";
 }
@@ -35,7 +39,7 @@ p {
 
 
 #content {
-    background-color: blue;
+    background-color: LavenderBlush;
     width: 600px;
     min-height: 300px;
     padding: 20px;
