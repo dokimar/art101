@@ -6,21 +6,21 @@ h2 {
 
 
 h3 {
-    color: MidnightBlue;
+    color: DarkBlue;
     font-family: verdana;
 }
 
 
 
 h4 {
-    color: Coral;
+    color: CornflowerBlue;
     font-family: verdana;
 }
 
 
 
 h5 {
-    color: LightCoral;
+    color: Coral;
     font-family: verdana;
 }
 
@@ -32,14 +32,37 @@ p {
     margin-left: "15px";
 }
 
-
-
-#content {
-    background-color: LavenderBlush;
-    width: 600px;
-    min-height: 300px;
+#challenges {
+    background-color: AliceBlue;
     padding: 20px;
     margin: 20px;
-    border: solid 2px blue;
-    font-size: 20px;
+    border: 3px solid powderblue;
+}
+
+#problems {
+    background-color: AliceBlue;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid powderblue;
+}
+
+#results {
+    background-color: AliceBlue;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid powderblue;
+}
+
+#task1 {
+    background-color: OldLace;
+    padding: 20px;
+    margin: 20px;
+    border: 3px dashed powderblue;
+}
+
+#task2 {
+    background-color: OldLace;
+    padding: 20px;
+    margin: 20px;
+    border: 3px dashed powderblue;
 }
