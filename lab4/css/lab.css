@@ -1,0 +1,38 @@
+h3 {
+    color: purple;
+    font-size: 400%;
+}
+
+
+
+h4 {
+    color: blue;
+    font-size: 200%;
+}
+
+
+
+h5 {
+    color: pink;
+    font-size: 100%;
+}
+
+
+
+p {
+    font-family: "courier";
+    text-indent: "30px";
+    margin-left: "15px";
+}
+
+
+
+#content {
+    background-color: powder blue;
+    width: 600px;
+    min-height: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: solid 2px blue;
+    font-size: 20px;
+}
