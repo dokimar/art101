@@ -1,7 +1,7 @@
 /* UCSC; ART101 Fall 2021; Lab 5: Data Types and Variables.
  * Experiment with basic JavaScript data types and variables.
- * @author  Ariana Lazich and Marlene Lopez <mlope109@ucsc.edu>
- * @since   19 October 2021
+ * Author(s):   Ariana Lazich and Marlene Lopez <mlope109@ucsc.edu>
+ * Created:     19 October 2021
 */
 
 // Define variables
@@ -13,7 +13,7 @@ year = 2012;
 // Calculate
 age = 2021 - year;
 
-// Output: print statement is WRITE*L*N, not uppercase 'i'
+// Output
 
 document.writeln("Make: " + make + "<br>");
 document.writeln("Model: " + model + "<br>");
