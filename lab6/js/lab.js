@@ -34,5 +34,5 @@ myMainRide.age = 2021 - myMainRide.year;
                   );
   // Use document.writeln() to neatly output myMainRide
   document.writeln("<p>My Main Ride: <pre>",
-                    JSON.stringify(myMainRIde, null, '\t'),
+                    JSON.stringify(myMainRide, null, '\t'),
                     "</pre></p>");
