@@ -14,7 +14,7 @@ var myMainRide = {
   type: myTransport[0],
   make: 'Honda',
   model: 'Civic',
-  color: 'red',
+  color: 'Red',
   year: 2012
 };
 
@@ -34,4 +34,5 @@ myMainRide.age = 2021 - myMainRide.year;
                   );
   // Use document.writeln() to neatly output myMainRide
   document.writeln("<p>My Main Ride: <pre>",
-                    JSON.stringify(myMainRIde, null, '\t'), ""</pre></p>");
+                    JSON.stringify(myMainRIde, null, '\t'),
+                    "</pre></p>");
