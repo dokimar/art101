@@ -20,7 +20,7 @@ var myMainRide = {
 
 
 // add age to myMainRide object
-myMainRide.age = 2021 - myMainRide.year;
+myMainRide.age = 2021 - myMainRide.year + " years old";
 
 
 // Output
