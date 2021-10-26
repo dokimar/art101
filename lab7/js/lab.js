@@ -7,6 +7,8 @@
 
 /*sortUserName - function that takes user/page viewer (string) input
   and sorts the letters*/
+
+
 function sortUserName() {
   //userName; takes user input
   var userName = window.prompt("Tell me your name so I can make it better:");
@@ -26,6 +28,9 @@ function sortUserName() {
 
   //returns sorted string
   return sortedName;
+
+  document.write(userName)
+
 };
 
 // output; prints sorted user inputed name, returned from sortUserName

@@ -1,5 +1,5 @@
 body {
-  background-color: PaleVioletRed
+  background-color: SlateBlue
 }
 
 
@@ -34,17 +34,17 @@ p {
 
 
 #content {
-    background-color: PowderBlue;
+    background-color: plum;
     padding: 50px;
     margin: 20px;
-    border: 5px dashed SteelBlue;
+    border: 5px dashed darkslateblue;
 }
 
 
 #output {
     width: 455px;
-    height: 195px;
-    background-color: Wheat;
+    height: 100px;
+    background-color: white;
     opacity: 0.7;
     padding: 15px;
 
